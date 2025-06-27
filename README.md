@@ -16,7 +16,7 @@ Um projeto simples e elegante que permite converter números binários em númer
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-📁 Conversor-Binario-Decimal/
+📁 bin-dec-converter/
 ├── index.html          # Estrutura da página
 ├── style.css           # Estilização visual
 ├── script.js           # Lógica de conversão e validação
@@ -39,10 +39,10 @@ JavaScript Puro (Vanilla JS)
 ## 💻 Como Usar
 
 1. Clone o repositório:
-   git clone https://github.com/seuusuario/conversor-binario-decimal.git
+   git clone https://github.com/Alefk1708/bin-dec-converter.git
 
 2. Navegue até a pasta do projeto:
-   cd conversor-binario-decimal
+   cd bin-dec-converter
 
 3. Abra o arquivo index.html diretamente no navegador ou utilize o Live Server (VS Code).
 
